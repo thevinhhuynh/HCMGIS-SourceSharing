@@ -1,7 +1,0 @@
-1 - Install: pip install django-online-counter
-2 - Makemigrations: python manage.py makemigrations django-online-counter
-3 - Migrate: python manage.py migrate django-online-counte
-4 - Add MIDDLEWARE_CLASSES: 'onlinecounter.middleware.OnlineCounterMiddleware'
-5 - Add INSTALL_APPS: 'onlinecounter'
-
-Fixed on django version > 1.7 
